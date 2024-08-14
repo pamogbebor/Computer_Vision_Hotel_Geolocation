@@ -1,0 +1,4 @@
+0 Bedroom
+1 Seating
+2 Miscellaneous
+3 Bathroom
